@@ -7,12 +7,12 @@
 - [6. How to contribute?](#6-how-to-contribute)
 - [7. Sponsor me!](#7-how-to-sponsor)
 
-# 2. What is this Plugin?
-....
+# 2. What is this Code for?
+This code is used to control 4 Fan´s for the SmartGreens GrowAssistant180
 
 
 # 3. Setup
-..
+Just upload the Code to your HomeAssistant instance
 
 # 4. How to use it?
 
